@@ -1,1 +1,2 @@
 I have created the first branch named BranchA
+To pull this line into the BranchA and commiting it into the BranchA to sync up with main and still changes in BranchA needs to not affected
